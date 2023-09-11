@@ -1,3 +1,4 @@
+
 const requestHandler = (req, res) => {
    const { url, method } = req;
     if(url === '/'){
